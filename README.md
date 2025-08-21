@@ -1,5 +1,3 @@
-Perfeito! Aqui está o README em **formato Markdown** pronto para você copiar e colar em um arquivo `README.md`:
-
 ````md
 # HackMonitor – Daily Cybersecurity News Digest
 
