@@ -1,0 +1,66 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1755751777998,
+        "children": [
+          {
+            "key": 1755786151934,
+            "children": [],
+            "todo": {
+              "content": "Adicionar um banco de dados SQLite",
+              "id": 1755786151934,
+              "level": "danger",
+              "done": false,
+              "start": 1755786151934
+            }
+          },
+          {
+            "key": 1755752148487,
+            "children": [],
+            "todo": {
+              "content": "Adicionar um encurtador nos links",
+              "id": 1755752148487,
+              "level": "secondary",
+              "done": false,
+              "start": 1755752148488
+            }
+          },
+          {
+            "key": 1755752006111,
+            "children": [],
+            "todo": {
+              "content": "Interface GUI ou CLI",
+              "id": 1755752006111,
+              "level": "secondary",
+              "done": false,
+              "start": 1755752006111
+            }
+          }
+        ],
+        "todo": {
+          "content": "Implementar",
+          "id": 1755751777998,
+          "level": "default",
+          "done": false,
+          "start": 1755751777998
+        }
+      }
+    ],
+    "expandKeys": [
+      1755751777998
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "timelines": [],
+    "showLine": false,
+    "playFontSize": 24,
+    "title": ".todo",
+    "autoSort": false,
+    "showEndTime": false,
+    "simpleMode": false,
+    "lang": "en",
+    "version": "1755786185127"
+  }
+}
