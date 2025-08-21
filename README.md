@@ -15,7 +15,7 @@ HackMonitor is an automated tool that collects the latest technology and cyberse
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HackMonitor.git
+git clone https://github.com/santtos0x1/HackMonitor.git
 cd HackMonitor
 ```
 
