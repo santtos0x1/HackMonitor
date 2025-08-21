@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="_ewZo6n6A9VJ4KL5Ai7s">
+    <mxGraphModel dx="2038" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jcy4ukVffFGlvp9LYBMc-1" target="jcy4ukVffFGlvp9LYBMc-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-1" value="App" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jcy4ukVffFGlvp9LYBMc-2" target="jcy4ukVffFGlvp9LYBMc-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-2" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-wrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;class=&quot;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-family: &amp;quot;Noto Sans Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, monospace; font-size: 11px; text-align: left; white-space-collapse: preserve; background-color: transparent;&quot;&gt;athing submission&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="235" y="330" width="170" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jcy4ukVffFGlvp9LYBMc-5" target="jcy4ukVffFGlvp9LYBMc-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jcy4ukVffFGlvp9LYBMc-5" target="jcy4ukVffFGlvp9LYBMc-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-5" value="&lt;div&gt;&amp;lt;a href=&quot;&lt;font style=&quot;color: rgb(127, 0, 255);&quot;&gt;https://tomrenner.com/posts/optimising-for-trust/&lt;/font&gt;&quot; rel=&quot;nofollow&quot;&amp;gt;&lt;font style=&quot;color: rgb(127, 0, 255);&quot;&gt;Optimising for Trust&lt;/font&gt;&amp;lt;/a&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;b&gt;&lt;i&gt;Link and title&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="178" y="420" width="284" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="jcy4ukVffFGlvp9LYBMc-11" target="jcy4ukVffFGlvp9LYBMc-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-11" value="&lt;font style=&quot;color: rgb(0, 0, 51);&quot;&gt;&lt;font&gt;&lt;i&gt;&lt;b&gt;Link&lt;br&gt;&lt;/b&gt;&lt;/i&gt;https://tomrenner.com/posts/optimising-for-trust/&lt;/font&gt;&quot;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="89.5" y="540" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-12" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 51);&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Title&lt;/b&gt;&lt;/i&gt;&lt;br&gt;Optimising for Trust&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="329.5" y="540" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jcy4ukVffFGlvp9LYBMc-26" target="jcy4ukVffFGlvp9LYBMc-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-26" value="AWS /5h" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-36" value="{&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;sent_news&quot;: [&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(0, 0, 51); text-align: center;&quot;&gt;https://tomrenner.com/posts/optimising-for-trust/&lt;/font&gt;&lt;span style=&quot;white-space: pre; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&quot;[...]&quot;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;]&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="440" y="730" width="325" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" parent="1" source="jcy4ukVffFGlvp9LYBMc-51" target="jcy4ukVffFGlvp9LYBMc-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="jcy4ukVffFGlvp9LYBMc-51" target="jcy4ukVffFGlvp9LYBMc-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-51" value="JSON" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="290" y="640" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jcy4ukVffFGlvp9LYBMc-55" target="m2CBh-qS1fhqRzvhtFri-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jcy4ukVffFGlvp9LYBMc-55" value="if &quot;News&quot; not in &quot;set_news&quot;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="260" y="740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2CBh-qS1fhqRzvhtFri-1" target="m2CBh-qS1fhqRzvhtFri-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SMTP(smtplib)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2CBh-qS1fhqRzvhtFri-3" target="jcy4ukVffFGlvp9LYBMc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-3" value="User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="m2CBh-qS1fhqRzvhtFri-6" target="m2CBh-qS1fhqRzvhtFri-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m2CBh-qS1fhqRzvhtFri-6" value="Sent the news title and link" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
