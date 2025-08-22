@@ -1,6 +1,7 @@
 import datetime
 from core.badge import badgeGiver
 from typing import List, Tuple, Any
+import logging
 
 def Digest(listOfNews: List[Tuple[str, str, str, Any]]) -> str:
     htmlContent: str = """
@@ -95,7 +96,6 @@ def Digest(listOfNews: List[Tuple[str, str, str, Any]]) -> str:
         </html>
         """
     except Exception as e:
-        error_msg: str = f"Error generating HTML content: {e}"
-        print(error_msg)
+        logging.error(f"Error generating digest: {e}")
         htmlContent = "<h1>Something is wrong... Please try again later.</h1>"
     return htmlContent

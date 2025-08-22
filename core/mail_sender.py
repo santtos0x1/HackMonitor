@@ -3,8 +3,8 @@ from email.mime.multipart import MIMEMultipart
 import smtplib
 from email.mime.text import MIMEText
 from template import digest
-from storage import collector
 from typing import List, Any
+import logging
 
 def Send(listOfNews: List[Any]) -> None:
     smtp_server: str = "smtp.gmail.com"
@@ -26,5 +26,4 @@ def Send(listOfNews: List[Any]) -> None:
             server.sendmail(EMAIL_USER, TO_EMAIL, msg.as_string())
             print("Email sent successfully!")
     except Exception as e:
-        error_msg: str = f"Error sending email: {e}"
-        print(error_msg)
+        logging.error(f"Error sending email: {e}")

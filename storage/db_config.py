@@ -1,6 +1,7 @@
 import sqlite3
 from core.inf_get import getNews
 from core.badge import badgeGiver
+import logging
 
 class DatabaseConfig:
     def __init__(self):
@@ -28,4 +29,6 @@ class DatabaseConfig:
                                     link,
                                     time,
                                     badge) VALUES (?, ?, ?, ?)''', (title, link, time, badge)) 
+        logging.info(f"Inserted {len(titles)} news items into the database.")
         self.db.commit()
+        

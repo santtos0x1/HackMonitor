@@ -1,10 +1,12 @@
 from bs4 import BeautifulSoup
 import requests
 from typing import List, Tuple
+import logging
 
 def getNews() -> Tuple[List[str], List[str], List[str], List[str]]:
     url: str = "https://news.ycombinator.com/news"
 
+    
     response: requests.Response = requests.get(url)
     soup: BeautifulSoup = BeautifulSoup(response.text, 'html.parser')
     titleline: List[BeautifulSoup] = soup.find_all('span', class_='titleline')
@@ -18,6 +20,7 @@ def getNews() -> Tuple[List[str], List[str], List[str], List[str]]:
         score: List[str] = [i.get_text() for i in subline]
         
     except AttributeError:
-        print("Error: Could not find the expected HTML structure.")
+        logging.error("Error parsing the HTML structure. Please check the email's layout.")
     
+    logging.info(f"Successfully retrieved {len(titles)} articles from Hacker News.")
     return titles, links, time, score

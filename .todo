@@ -5,6 +5,28 @@
         "key": 1755751777998,
         "children": [
           {
+            "key": 1755799490493,
+            "children": [],
+            "todo": {
+              "content": "Criar um sistema de logging em todo programa, que salvará em um arquivo",
+              "id": 1755799490493,
+              "level": "warning",
+              "done": false,
+              "start": 1755799490493
+            }
+          },
+          {
+            "key": 1755800426027,
+            "children": [],
+            "todo": {
+              "content": "Colocar o programa para rodar na nuvem periodicamente",
+              "id": 1755800426027,
+              "level": "success",
+              "done": false,
+              "start": 1755800426027
+            }
+          },
+          {
             "key": 1755786151934,
             "children": [],
             "todo": {
@@ -65,6 +87,6 @@
     "showEndTime": false,
     "simpleMode": false,
     "lang": "en",
-    "version": "1755793006880"
+    "version": "1755800451496"
   }
 }

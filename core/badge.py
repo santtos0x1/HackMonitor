@@ -1,4 +1,5 @@
 from core.inf_get import getNews
+import logging
 
 def badgeGiver() -> list:
     listOfNews = getNews()
@@ -27,5 +28,6 @@ def badgeGiver() -> list:
             badges.append(badge)
     except ValueError:
         badge = "Without Score"
+        logging.error("Error processing score or time values. Please check the data format.")
         
     return badges
