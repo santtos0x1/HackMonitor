@@ -9,6 +9,7 @@ HackMonitor is an automated tool that collects the latest technology and cyberse
 - **Local Storage**: Keeps track of already sent links to avoid duplicates.
 - **Secure Credentials**: Uses environment variables for email login.
 - **Scalable**: Ready for templates, asynchronous sending, and analytics.
+- **Logging System**: Centralized log handler that records application events (errors, warnings, info) into a dedicated log file for monitoring and debugging.
 
 ## Installation
 
