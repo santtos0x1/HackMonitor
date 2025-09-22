@@ -6,7 +6,7 @@ HackMonitor is an automated tool that collects the latest technology and cyberse
 
 - **Web Scraping**: Automatically fetches top news articles from Hacker News.
 - **Dynamic HTML Emails**: Generates visually appealing email summaries.
-- **Local Storage**: Keeps track of already sent links to avoid duplicates.
+- **Local Storage**: Keeps track of already sent links to avoid duplicates with SQLite3.
 - **Secure Credentials**: Uses environment variables for email login.
 - **Logging System**: Centralized log handler that records application events (errors, warnings, info) into a dedicated log file for monitoring and debugging.
 
